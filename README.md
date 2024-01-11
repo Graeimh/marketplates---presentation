@@ -13,6 +13,8 @@ UML
 
 
 Wireframes
+
+
 ![Wireframes1](resources/schemas/WIREFRAMES-1.png)
 ![Wireframes2](resources/schemas/WIREFRAMES-2.png)
 
@@ -25,4 +27,4 @@ Schéma de navigation
 [Diaporama](https://docs.google.com/presentation/d/1w8-RcXcFjlpHYvRrf5fkYV-Hl7TelG4UHeavRYPP6dM/edit?usp=sharing)
 
 
-[Lien vers le dump de la database (MongoDB)](resources/dumps/) 
+[Dump de la database (MongoDB)](resources/dumps/) 
