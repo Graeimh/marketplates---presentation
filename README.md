@@ -10,7 +10,7 @@ Marketplates est un site qui a la vocation de rassembler des cartes crées par d
 ![texte du lien](LIEN) - Image
 (resources/schemas/uml.jpg)
 
-![UML](LIEN)
+![UML](resources/schemas/UML.png)
 ![Wireframes](LIEN)
 ![Schéma de navigation](LIEN)
 
