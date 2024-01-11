@@ -8,18 +8,18 @@ Marketplates est un site qui a la vocation de rassembler des cartes créées par
 [Repository Back](https://github.com/Graeimh/marketplates)
 
 ## Schemas
-UML
+### UML
 ![UML](resources/schemas/UML.png)
 
 
-Wireframes
+### Wireframes
 
 
 ![Wireframes1](resources/schemas/WIREFRAMES-1.png)
 ![Wireframes2](resources/schemas/WIREFRAMES-2.png)
 
 
-Schéma de navigation
+### Schéma de navigation
 ![Schéma de navigation](resources/schemas/NAVIGATION.png)
 
 
