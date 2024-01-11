@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "659f14fc394d02b90b4e4adb"
+  },
+  "associatedMapIds": [
+    {
+      "$oid": "659f14fc394d02b90b4e4ada"
+    }
+  ],
+  "creationDate": {
+    "$date": "2024-01-10T19:32:05.238Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "customName": "Bloempot",
+  "customDescription": "My favourite restaurant! But it's expensive",
+  "customTagIds": [
+    {
+      "$oid": "657ac90f515d34b180b19c8c"
+    },
+    {
+      "$oid": "657ac932515d34b180b19c8f"
+    },
+    {
+      "$oid": "659d61db22eb046ad073a97e"
+    }
+  ],
+  "gpsCoordinates": {
+    "longitude": 3.0583136,
+    "latitude": 50.6381492
+  },
+  "placeId": {
+    "$oid": "657da37408bd5af50fbe9ce1"
+  }
+},
+{
+  "_id": {
+    "$oid": "659f15cc394d02b90b4e4b24"
+  },
+  "associatedMapIds": [
+    {
+      "$oid": "659f15cc394d02b90b4e4b23"
+    }
+  ],
+  "creationDate": {
+    "$date": "2024-01-10T19:32:05.238Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "customName": "Los Tres Compadres",
+  "customDescription": "Accessible traditionnal mexican food. If only their enchiladas were crispier!",
+  "customTagIds": [
+    {
+      "$oid": "659d1c98b08ea9d4cd1159d6"
+    },
+    {
+      "$oid": "659d66a722eb046ad073a9cb"
+    }
+  ],
+  "gpsCoordinates": {
+    "longitude": 3.061123552634867,
+    "latitude": 50.62587655
+  },
+  "placeId": {
+    "$oid": "659ef22a394d02b90b4e491a"
+  }
+},
+{
+  "_id": {
+    "$oid": "659f15cc394d02b90b4e4b26"
+  },
+  "associatedMapIds": [
+    {
+      "$oid": "659f15cc394d02b90b4e4b23"
+    }
+  ],
+  "creationDate": {
+    "$date": "2024-01-10T19:32:05.238Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "customName": "Beatriz",
+  "customDescription": "Best mexican food in town by a long shot. If only it wasn't so hard to get a spot there!",
+  "customTagIds": [
+    {
+      "$oid": "659d61db22eb046ad073a97e"
+    },
+    {
+      "$oid": "659d66a722eb046ad073a9cb"
+    }
+  ],
+  "gpsCoordinates": {
+    "longitude": 3.0681993,
+    "latitude": 50.6263697
+  },
+  "placeId": {
+    "$oid": "659ef1ee394d02b90b4e4915"
+  }
+}]

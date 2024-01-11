@@ -1,0 +1,528 @@
+[{
+  "_id": {
+    "$oid": "657ac90f515d34b180b19c8c"
+  },
+  "backgroundColor": "#007804",
+  "creationDate": {
+    "$date": "2023-12-14T09:20:39.538Z"
+  },
+  "creatorId": {
+    "$oid": "656f67dc08fea2e5cadf9be3"
+  },
+  "isOfficial": true,
+  "name": "🥦Vegeterian",
+  "nameColor": "#ffffff",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "657ac932515d34b180b19c8f"
+  },
+  "backgroundColor": "#e80e0e",
+  "creationDate": {
+    "$date": "2023-12-14T09:20:39.538Z"
+  },
+  "creatorId": {
+    "$oid": "656f67dc08fea2e5cadf9be3"
+  },
+  "isOfficial": true,
+  "name": "🥩Carnivore",
+  "nameColor": "#ffffff",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "657aca08515d34b180b19c9e"
+  },
+  "backgroundColor": "#000000",
+  "creationDate": {
+    "$date": "2023-12-14T09:20:39.538Z"
+  },
+  "creatorId": {
+    "$oid": "656f67dc08fea2e5cadf9be3"
+  },
+  "isOfficial": true,
+  "name": "🥑Keto-friendly",
+  "nameColor": "#84ff00",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "657aca50515d34b180b19ca1"
+  },
+  "backgroundColor": "#fa9900",
+  "creationDate": {
+    "$date": "2023-12-14T09:20:39.538Z"
+  },
+  "creatorId": {
+    "$oid": "656f67dc08fea2e5cadf9be3"
+  },
+  "isOfficial": true,
+  "name": "🍗Chicken",
+  "nameColor": "#000000",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "657aca88515d34b180b19ca4"
+  },
+  "backgroundColor": "#f7e268",
+  "creationDate": {
+    "$date": "2023-12-14T09:20:39.538Z"
+  },
+  "creatorId": {
+    "$oid": "656f67dc08fea2e5cadf9be3"
+  },
+  "isOfficial": true,
+  "name": "🍔Burgers",
+  "nameColor": "#000000",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "6585bf7c9fe26cad7f06d4aa"
+  },
+  "backgroundColor": "#fffccb",
+  "creationDate": {
+    "$date": "2023-12-22T16:40:17.904Z"
+  },
+  "creatorId": {
+    "$oid": "6585bc469fe26cad7f06d481"
+  },
+  "isOfficial": true,
+  "name": "🍟Fries",
+  "nameColor": "#000000",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "6585bfb19fe26cad7f06d4ad"
+  },
+  "backgroundColor": "#ff0000",
+  "creationDate": {
+    "$date": "2023-12-22T16:40:17.904Z"
+  },
+  "creatorId": {
+    "$oid": "6585bc469fe26cad7f06d481"
+  },
+  "isOfficial": true,
+  "name": "🇮🇹Italian",
+  "nameColor": "#2e5022",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "6585bfcc9fe26cad7f06d4b0"
+  },
+  "backgroundColor": "#d7a8a8",
+  "creationDate": {
+    "$date": "2023-12-22T16:40:17.904Z"
+  },
+  "creatorId": {
+    "$oid": "6585bc469fe26cad7f06d481"
+  },
+  "isOfficial": true,
+  "name": "🍜Ramen",
+  "nameColor": "#000000",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "6585bff99fe26cad7f06d4b3"
+  },
+  "backgroundColor": "#ff5f5f",
+  "creationDate": {
+    "$date": "2023-12-22T16:40:17.904Z"
+  },
+  "creatorId": {
+    "$oid": "6585bc469fe26cad7f06d481"
+  },
+  "isOfficial": true,
+  "name": "🍣Sushi",
+  "nameColor": "#ffffff",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "6585c0359fe26cad7f06d4b6"
+  },
+  "backgroundColor": "#dbffd3",
+  "creationDate": {
+    "$date": "2023-12-22T16:40:17.904Z"
+  },
+  "creatorId": {
+    "$oid": "6585bc469fe26cad7f06d481"
+  },
+  "isOfficial": true,
+  "name": "💲Budget-friendly",
+  "nameColor": "#0e3300",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d1c98b08ea9d4cd1159d6"
+  },
+  "backgroundColor": "#58a24d",
+  "creationDate": {
+    "$date": "2024-01-09T10:11:13.755Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "💲💲Standard budget",
+  "nameColor": "#fffafa",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d61db22eb046ad073a97e"
+  },
+  "backgroundColor": "#0ba600",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "💲💲💲Expensive",
+  "nameColor": "#000000",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d625522eb046ad073a981"
+  },
+  "backgroundColor": "#739800",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "🪙Budget-buster",
+  "nameColor": "#f6ff00",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d627522eb046ad073a984"
+  },
+  "backgroundColor": "#e6e6e6",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "📈Good deals",
+  "nameColor": "#ff0000",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d62b922eb046ad073a987"
+  },
+  "backgroundColor": "#bc0000",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "🛵Good deliveries",
+  "nameColor": "#add6ff",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d62e222eb046ad073a98a"
+  },
+  "backgroundColor": "#edbfff",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "🍴Snacking",
+  "nameColor": "#333333",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d634922eb046ad073a990"
+  },
+  "backgroundColor": "#1e3f25",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "🍺Bar",
+  "nameColor": "#f4ff53",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d637122eb046ad073a993"
+  },
+  "backgroundColor": "#ffcb6d",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "🫖Tea time",
+  "nameColor": "#000000",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d63b322eb046ad073a998"
+  },
+  "backgroundColor": "#000000",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "🛒Groceries",
+  "nameColor": "#ffffff",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d63fd22eb046ad073a99b"
+  },
+  "backgroundColor": "#925353",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "👨‍👨‍👦‍👦Sharing dishes",
+  "nameColor": "#ffffff",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d644622eb046ad073a9a1"
+  },
+  "backgroundColor": "#72798a",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "🍱All-you-can-eat",
+  "nameColor": "#ffffff",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d647d22eb046ad073a9a4"
+  },
+  "backgroundColor": "#d0d0d0",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "☕Coffee",
+  "nameColor": "#7d3300",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d64a222eb046ad073a9a7"
+  },
+  "backgroundColor": "#544941",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "🍵Teahouse",
+  "nameColor": "#d9dfc8",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d64e422eb046ad073a9aa"
+  },
+  "backgroundColor": "#30a09b",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "🍞Baked goods",
+  "nameColor": "#000000",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d652a22eb046ad073a9ae"
+  },
+  "backgroundColor": "#ffd57c",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "🍹Mocktails",
+  "nameColor": "#000000",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d654c22eb046ad073a9b1"
+  },
+  "backgroundColor": "#78b36b",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "🍷Cellar",
+  "nameColor": "#bc058b",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d658822eb046ad073a9b4"
+  },
+  "backgroundColor": "#4a3d22",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "🍩Doughnuts",
+  "nameColor": "#ffffff",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d65a522eb046ad073a9b7"
+  },
+  "backgroundColor": "#efc5c5",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "🍨Ice creams",
+  "nameColor": "#000000",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d65fd22eb046ad073a9bf"
+  },
+  "backgroundColor": "#fa5959",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "🍕Pizzas",
+  "nameColor": "#e3ffd0",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d662322eb046ad073a9c2"
+  },
+  "backgroundColor": "#50c8a6",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "🍬Sweets",
+  "nameColor": "#000000",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d665222eb046ad073a9c5"
+  },
+  "backgroundColor": "#FFFFFF",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "🧪Experimental",
+  "nameColor": "#3a7663",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d667b22eb046ad073a9c8"
+  },
+  "backgroundColor": "#FFFFFF",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "🍤Japanese food",
+  "nameColor": "#955700",
+  "tagAffinities": []
+},
+{
+  "_id": {
+    "$oid": "659d66a722eb046ad073a9cb"
+  },
+  "backgroundColor": "#232e1c",
+  "creationDate": {
+    "$date": "2024-01-09T13:24:51.230Z"
+  },
+  "creatorId": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "isOfficial": true,
+  "name": "🌮Mexican",
+  "nameColor": "#fbbf7c",
+  "tagAffinities": []
+}]

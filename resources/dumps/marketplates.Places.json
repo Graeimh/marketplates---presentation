@@ -1,0 +1,316 @@
+[{
+  "_id": {
+    "$oid": "657da37408bd5af50fbe9ce1"
+  },
+  "address": "Le Bloempot, 22, Rue des Bouchers, Vieux-Lille, Lille, Nord, Hauts-de-France, France métropolitaine, 59000, France",
+  "creationDate": {
+    "$date": "2023-12-16T13:17:37.227Z"
+  },
+  "description": "Resto génial!",
+  "gpsCoordinates": {
+    "longitude": 3.0583136,
+    "latitude": 50.6381492
+  },
+  "owner_id": {
+    "$oid": "656f67dc08fea2e5cadf9be3"
+  },
+  "name": "Bloempot",
+  "tagsList": [
+    {
+      "$oid": "657ac90f515d34b180b19c8c"
+    },
+    {
+      "$oid": "657ac932515d34b180b19c8f"
+    },
+    {
+      "$oid": "6585c04a9fe26cad7f06d4b9"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657ef55cb8c3d343db920c1c"
+  },
+  "address": "27, Boulevard Jean-Baptiste Lebas, Lille-Centre, Lille, Nord, Hauts-de-France, France métropolitaine, 59024, France",
+  "creationDate": {
+    "$date": "2023-12-17T09:28:04.533Z"
+  },
+  "description": "Burgers de fou et plus encore!",
+  "gpsCoordinates": {
+    "longitude": 3.0698339,
+    "latitude": 50.6249778
+  },
+  "owner_id": {
+    "$oid": "656f67dc08fea2e5cadf9be3"
+  },
+  "name": "Tummy",
+  "tagsList": [
+    {
+      "$oid": "657aca88515d34b180b19ca4"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6585c11e9fe26cad7f06d4ca"
+  },
+  "address": "Rue de Cambrai, Lille",
+  "creationDate": {
+    "$date": "2023-12-22T16:40:17.901Z"
+  },
+  "description": "Des frites pas chères et délicieuses!",
+  "gpsCoordinates": {
+    "longitude": 3.0687897693453974,
+    "latitude": 50.62425936426809
+  },
+  "owner_id": {
+    "$oid": "6585bc469fe26cad7f06d481"
+  },
+  "name": "Friterie Sensass",
+  "tagsList": [
+    {
+      "$oid": "6585bf7c9fe26cad7f06d4aa"
+    },
+    {
+      "$oid": "6585c0359fe26cad7f06d4b6"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ef151394d02b90b4e4901"
+  },
+  "address": "Baan Boon, Boulevard Jean-Baptiste Lebas, Euralille, Lille-Centre, Lille, Nord, Hauts-de-France, France métropolitaine, 59046, France",
+  "creationDate": {
+    "$date": "2024-01-10T19:32:05.240Z"
+  },
+  "description": "The best pad thaï in Lille",
+  "gpsCoordinates": {
+    "longitude": 3.0682398,
+    "latitude": 50.6248942
+  },
+  "owner_id": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "name": "Baan Boon",
+  "tagsList": [
+    {
+      "$oid": "659d627522eb046ad073a984"
+    },
+    {
+      "$oid": "659d62b922eb046ad073a987"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ef18b394d02b90b4e4906"
+  },
+  "address": "Britney, Boulevard Jean-Baptiste Lebas, Euralille, Lille-Centre, Lille, Nord, Hauts-de-France, France métropolitaine, 59046, France",
+  "creationDate": {
+    "$date": "2024-01-10T19:32:05.240Z"
+  },
+  "description": "Experiences to share around a table",
+  "gpsCoordinates": {
+    "longitude": 3.0698077,
+    "latitude": 50.6270933
+  },
+  "owner_id": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "name": "Britney",
+  "tagsList": [
+    {
+      "$oid": "659d665222eb046ad073a9c5"
+    },
+    {
+      "$oid": "659d63fd22eb046ad073a99b"
+    },
+    {
+      "$oid": "659d1c98b08ea9d4cd1159d6"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ef1ee394d02b90b4e4915"
+  },
+  "address": "Beatriz, Boulevard Jean-Baptiste Lebas, Euralille, Lille-Centre, Lille, Nord, Hauts-de-France, France métropolitaine, 59046, France",
+  "creationDate": {
+    "$date": "2024-01-10T19:32:05.240Z"
+  },
+  "description": "Best mexican food in town by a long shot",
+  "gpsCoordinates": {
+    "longitude": 3.0681993,
+    "latitude": 50.6263697
+  },
+  "owner_id": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "name": "Beatriz",
+  "tagsList": [
+    {
+      "$oid": "659d66a722eb046ad073a9cb"
+    },
+    {
+      "$oid": "659d61db22eb046ad073a97e"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ef22a394d02b90b4e491a"
+  },
+  "address": "Los 3 compadres, Rue Brûle-Maison, Wazemmes, Lille, Nord, Hauts-de-France, France métropolitaine, 59046, France",
+  "creationDate": {
+    "$date": "2024-01-10T19:32:05.240Z"
+  },
+  "description": "Accessible traditionnal mexican food",
+  "gpsCoordinates": {
+    "longitude": 3.061123552634867,
+    "latitude": 50.62587655
+  },
+  "owner_id": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "name": "Los Tres Compadres",
+  "tagsList": [
+    {
+      "$oid": "659d66a722eb046ad073a9cb"
+    },
+    {
+      "$oid": "659d1c98b08ea9d4cd1159d6"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ef275394d02b90b4e491f"
+  },
+  "address": "Daikanyama, Rue de Gand, Vieux-Lille, Lille, Nord, Hauts-de-France, France métropolitaine, 59043, France",
+  "creationDate": {
+    "$date": "2024-01-10T19:32:05.240Z"
+  },
+  "description": "The place to be for karaage and drinks after work",
+  "gpsCoordinates": {
+    "longitude": 3.0665156,
+    "latitude": 50.6424418
+  },
+  "owner_id": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "name": "Daikanyama",
+  "tagsList": [
+    {
+      "$oid": "659d667b22eb046ad073a9c8"
+    },
+    {
+      "$oid": "659d652a22eb046ad073a9ae"
+    },
+    {
+      "$oid": "659d634922eb046ad073a990"
+    },
+    {
+      "$oid": "6585bfcc9fe26cad7f06d4b0"
+    },
+    {
+      "$oid": "659d61db22eb046ad073a97e"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ef2a8394d02b90b4e4924"
+  },
+  "address": "Maison Ramen, Rue de Solférino, Wazemmes, Lille, Nord, Hauts-de-France, France métropolitaine, 59046, France",
+  "creationDate": {
+    "$date": "2024-01-10T19:32:05.240Z"
+  },
+  "description": "Affordable, quickly served ramen",
+  "gpsCoordinates": {
+    "longitude": 3.0571995,
+    "latitude": 50.6301033
+  },
+  "owner_id": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "name": "Maison Ramen",
+  "tagsList": [
+    {
+      "$oid": "6585bfcc9fe26cad7f06d4b0"
+    },
+    {
+      "$oid": "6585c0359fe26cad7f06d4b6"
+    },
+    {
+      "$oid": "659d1c98b08ea9d4cd1159d6"
+    },
+    {
+      "$oid": "659d627522eb046ad073a984"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ef319394d02b90b4e492b"
+  },
+  "address": "La Pépite, Place Sébastopol, Wazemmes, Lille, Nord, Hauts-de-France, France métropolitaine, 59046, France",
+  "creationDate": {
+    "$date": "2024-01-10T19:32:05.240Z"
+  },
+  "description": "The busiest bar in Lille, good luck grabbing a seat!",
+  "gpsCoordinates": {
+    "longitude": 3.0580485,
+    "latitude": 50.6284311
+  },
+  "owner_id": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "name": "La Pépite",
+  "tagsList": [
+    {
+      "$oid": "657aca50515d34b180b19ca1"
+    },
+    {
+      "$oid": "659d62e222eb046ad073a98a"
+    },
+    {
+      "$oid": "659d1c98b08ea9d4cd1159d6"
+    },
+    {
+      "$oid": "659d634922eb046ad073a990"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ef372394d02b90b4e4930"
+  },
+  "address": "La Canopée, Rue de Solférino, Euralille, Lille-Centre, Lille, Nord, Hauts-de-France, France métropolitaine, 59046, France",
+  "creationDate": {
+    "$date": "2024-01-10T19:32:05.240Z"
+  },
+  "description": "Good place for a starter drink and good food",
+  "gpsCoordinates": {
+    "longitude": 3.0647918,
+    "latitude": 50.6257887
+  },
+  "owner_id": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "name": "La Canopée",
+  "tagsList": [
+    {
+      "$oid": "659d62e222eb046ad073a98a"
+    },
+    {
+      "$oid": "659d634922eb046ad073a990"
+    },
+    {
+      "$oid": "659d652a22eb046ad073a9ae"
+    },
+    {
+      "$oid": "657aca88515d34b180b19ca4"
+    }
+  ]
+}]

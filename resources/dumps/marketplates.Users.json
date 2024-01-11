@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "656b038b0c735b0db7d4a98e"
+  },
+  "activeBasketlistIds": [],
+  "csrfToken": "133f73e260c155ffa0e56d009c788ef8&-&1701615726111&-&656b038b0c735b0db7d4a98f}",
+  "csrfTokenKey": "2e3be6a40ca51114",
+  "displayName": "GaryGs",
+  "email": "gary@gmail.com",
+  "firstName": "Gary",
+  "lastName": "Gygax",
+  "location": {
+    "streetAddress": "23 Fleet Street",
+    "county": "Greater London",
+    "city": "London",
+    "country": "England"
+  },
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$NqI/P1QGqjjgNMx2Rl3//g$yHBSc6E+ZCFJXDbMQR/QLLuxVRNPwzhmdfDz1wYp1tM",
+  "profilePicture": {
+    "imageURL": "",
+    "imageCaption": ""
+  },
+  "recipes": {
+    "favoriteRecipes": [],
+    "customRecipes": []
+  },
+  "type": [
+    "User"
+  ],
+  "csrfSecret": {
+    "$oid": "656b038b0c735b0db7d4a98f"
+  }
+},
+{
+  "_id": {
+    "$oid": "658d7d7440ce209de1587de7"
+  },
+  "activeBasketlistIds": [],
+  "creationDate": {
+    "$date": "2023-12-28T13:51:43.831Z"
+  },
+  "displayName": "Admin",
+  "email": "qg.guinier@gmail.com",
+  "firstName": "Quentin",
+  "lastName": "Guinier",
+  "location": {
+    "streetAddress": "AAAAAA",
+    "county": "AAA",
+    "city": "AA",
+    "country": "AA"
+  },
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$7tRejIf8GOAmk6cZLFDFGA$y0CnW900sMRhYUlhMWwvwWOq83cd9Rknr1IaV3gnRT0",
+  "profilePicture": {
+    "imageURL": "",
+    "imageCaption": ""
+  },
+  "recipes": {
+    "favoriteRecipes": [],
+    "customRecipes": []
+  },
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFnLmd1aW5pZXJAZ21haWwuY29tIiwiZGlzcGxheU5hbWUiOiJBZG1pbiIsInVzZXJJZCI6IjY1OGQ3ZDc0NDBjZTIwOWRlMTU4N2RlNyIsInN0YXR1cyI6IlVzZXImQWRtaW4iLCJpYXQiOjE3MDM3NzE1NDcsImV4cCI6MTczNTMyOTE0N30.vvGBS13O86h7oKnzYIsUy21zzrfz8NbNcI0jDzUImVY",
+  ],
+  "type": [
+    "User",
+    "Admin"
+  ]
+}]
