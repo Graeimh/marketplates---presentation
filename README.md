@@ -1,6 +1,6 @@
 # Projet de soutenance - Marketplates
 
-Marketplates est un site qui a la vocation de rassembler des cartes crées par des utilisateurs contenant leur version et opinion de lieu de restauration déjà existants. Le MVP qui sert pour le rendu de cette soutenance peut être trouvé ici : [Marketplates](https://marketplates.netlify.app/)
+Marketplates est un site qui a la vocation de rassembler des cartes créées par des utilisateurs contenant leur version et opinion de lieux de restauration déjà existants. Le MVP qui sert pour le rendu de cette soutenance peut être trouvé ici : [Marketplates](https://marketplates.netlify.app/)
 
 ## Liens repositories
 [Repository Front](https://github.com/Graeimh/marketplates-front)
